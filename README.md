@@ -51,6 +51,6 @@ Karena proyek ini menggunakan basis **Compose Multiplatform**, aplikasi akan ber
 - **NIM:** 123140063
 - **Mata Kuliah:** Pengembangan Aplikasi Mobile RB
 
-**ScrEenshoot:**
+**Screenshoot:**
 <img width="1021" height="753" alt="image" src="https://github.com/user-attachments/assets/0bd9394d-b334-4670-a5ab-e63bee89b2e9" />
 
