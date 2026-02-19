@@ -42,14 +42,13 @@ Karena proyek ini menggunakan basis **Compose Multiplatform**, aplikasi akan ber
 1. **Persiapan IDE:** Pastikan Anda menggunakan **Android Studio** atau **IntelliJ IDEA** versi terbaru.
 2. **Buka Proyek:** Pilih menu `File > Open...` dan arahkan ke folder proyek `NewsFeedSimulator` ini.
 3. **Tunggu Gradle Sync:** Perhatikan bagian pojok kanan bawah IDE. Tunggu hingga proses sinkronisasi Gradle selesai sepenuhnya (mengunduh *dependencies* Kotlin, Coroutines, dan Compose).
-4. **Pilih Modul:** Di bagian atas IDE (sebelah kiri tombol *Run/Play* hijau), pastikan Anda memilih modul konfigurasi jalannya program ke **`desktopApp`** (jangan pilih `composeApp`).
-5. **Jalankan Aplikasi:** Klik tombol **Run** (segitiga hijau) atau tekan `Shift + F10`.
-6. **Simulasi Berjalan:** Jendela aplikasi Desktop akan terbuka. Anda akan melihat berita baru masuk secara otomatis setiap 2 detik. Cobalah klik filter kategori di bagian atas, dan klik salah satu *card* berita untuk melihat *counter* "Dibaca" bertambah.
+4. **Jalankan Aplikasi:** Klik tombol **Run** (segitiga hijau) atau tekan `Shift + F10`.
+5. **Simulasi Berjalan:** Jendela aplikasi Desktop akan terbuka. Anda akan melihat berita baru masuk secara otomatis setiap 2 detik. Cobalah klik filter kategori di bagian atas, dan klik salah satu *card* berita untuk melihat *counter* "Dibaca" bertambah.
 
 ---
 **Dikerjakan Oleh:**
-- **Nama:** [Pradana Figo Ariasya]
-- **NIM:** [123140063]
-- **Mata Kuliah:** Pengembangan Aplikasi Mobile 
+- **Nama:** Pradana Figo Ariasya
+- **NIM:** 123140063
+- **Mata Kuliah:** Pengembangan Aplikasi Mobile RB
 
 **Screnshoot:**
